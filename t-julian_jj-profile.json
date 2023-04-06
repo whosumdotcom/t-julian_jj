@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T01:16:10Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:julianj"
+    },
+    {
+      "Claim": "mdon:@julianj@cybervillains.com"
+    },
+    {
+      "Claim": "t:julian_jj"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "f2db2b3c367a4e9e971861f1",
+    "Timestamp": "2023-04-06T01:27:01Z",
+    "Signature": "25a91c6102965691ecb7be9e23e436001d804187b4039894d61b9de799583c27caee02e4e96315e78016bf1e76da3263772e60ab4cd30ce44d317b6e58b11156d7ddf55a07cb39b1c0bc2c6e7bdded8eaf836a1b396630185c7c06f4e3b1027a2002e55fec6e9941a9f984a71d1ee9917fc24e642f8065cd86df5d628e338e0fcf17870ff6df051caaa24dfd8aa947284b4777579dcf4cc756511043554c6ea8340dc7acfde8c5ed639140b6fa62b19a652ef2e7b143b78abd6f357f2a98920435f0249ae78af32e19e524a87f70d9c7b9eb4427b64cb97747e2fcde774924994ba4b51e6d4aba0db010001067c7b92d569804aacf0a9f70f43065b7393265e0"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "0377503fd29fc99f186d6a85121a98664be71a77bd97a49934729666a7ea05d9",
+  "ContentToHash": "v1|gh:julianj,mdon:@julianj@cybervillains.com,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:julian_jj|2023-04-06T01:16:10Z"
+}
